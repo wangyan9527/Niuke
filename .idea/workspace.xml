@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46273349-243f-42d5-8e58-c3a7fd99d67a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="46273349-243f-42d5-8e58-c3a7fd99d67a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,7 +64,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1507" />
+    <option name="x" value="1596" />
     <option name="y" value="-18" />
     <option name="width" value="1920" />
     <option name="height" value="1004" />
@@ -294,12 +292,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561345412004</updated>
       <workItem from="1561345413550" duration="828000" />
-      <workItem from="1561361518705" duration="26712000" />
+      <workItem from="1561361518705" duration="27003000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27540000" />
+    <option name="totallyTimeSpent" value="27831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1507" y="-18" width="1920" height="1004" extended-state="0" />
