@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46273349-243f-42d5-8e58-c3a7fd99d67a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/other/Practice5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/niuke/practice/other/Practice4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/niuke/practice/other/Practice4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/other/Practice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/other/Practice4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/other/Practice5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/other/Practice5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +18,7 @@
       <file leaf-file-name="Practice4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice/other/Practice4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
+            <state relative-caret-position="945">
               <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
               <folding>
                 <element signature="e#152#153#0" expanded="true" />
@@ -33,11 +31,11 @@
       <file leaf-file-name="Practice5.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/practice/other/Practice5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="120">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
               <folding>
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,7 +80,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1492" />
+    <option name="x" value="1441" />
     <option name="y" value="-18" />
     <option name="width" value="1920" />
     <option name="height" value="1004" />
@@ -96,8 +94,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,18 +152,12 @@
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="queueAndStack" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
-              <item name="niuke" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="queueAndStack" type="462c0819:PsiDirectoryNode" />
-              <item name="StackToList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,18 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Practice4">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Fibonacci.Fibonacci" />
-      <module name="niuke" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.Fibonacci.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Practice5">
     <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.other.Practice1" />
       <module name="niuke" />
@@ -239,6 +218,17 @@
     </configuration>
     <configuration name="Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.other.Practice4" />
+      <module name="niuke" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.other.Practice5" />
       <module name="niuke" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -290,19 +280,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.Practice1" />
       <item itemvalue="Application.Practice2" />
       <item itemvalue="Application.Practice3" />
       <item itemvalue="Application.Practice4" />
+      <item itemvalue="Application.Practice5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice5" />
         <item itemvalue="Application.Practice4" />
         <item itemvalue="Application.Practice3" />
         <item itemvalue="Application.Practice2" />
         <item itemvalue="Application.Practice1" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -317,33 +307,33 @@
       <option name="presentableId" value="Default" />
       <updated>1561345412004</updated>
       <workItem from="1561345413550" duration="828000" />
-      <workItem from="1561361518705" duration="29384000" />
+      <workItem from="1561361518705" duration="29650000" />
+      <workItem from="1561461300105" duration="2500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30212000" />
+    <option name="totallyTimeSpent" value="32978000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1492" y="-18" width="1920" height="1004" extended-state="0" />
+    <frame x="1441" y="-18" width="1920" height="1004" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32918552" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3495475" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3495475" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32918552" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32918552" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -357,6 +347,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32918552" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,6 +362,28 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/practice/other/Practice4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/other/Practice5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/binaryTree/BinaryTreePractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -480,7 +493,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/other/Practice4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
+        <state relative-caret-position="945">
           <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
           <folding>
             <element signature="e#152#153#0" expanded="true" />
@@ -491,11 +504,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/other/Practice5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="120">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
           </folding>
         </state>
       </provider>
