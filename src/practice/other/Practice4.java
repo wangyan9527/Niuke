@@ -7,7 +7,7 @@ package practice.other;
 public class Practice4 {
 
     public static void main(String[] args) {
-        System.out.println(NumberOf1(-2147483648));
+        System.out.println(NumberOf3(2147483647));
     }
 
     /**
@@ -32,12 +32,38 @@ public class Practice4 {
     /**
      * 二进制相关操作可使用位运算来计算
      * 以下通过移位运算来处理
+     * << 算术左移
+     * >> 算术右移，最高位为1则补1，最高位为0则补0
+     * >>> 逻辑右移，最高位为补0
      *
      * @param n
      * @return
      */
     public static int NumberOf2(int n) {
-        return 0;
+        int a = 1;
+        int count = 0;
+        while(a != 0) {
+            if (a == (n & a)) {
+                ++count;
+            }
+            a = a << 1;
+        }
+        return count;
+    }
+
+    /**
+     * 每次将二进制最右边的一个1置为0，同时计数器+1
+     *
+     * @param n
+     * @return
+     */
+    public static int NumberOf3(int n) {
+        int count = 0;
+        while (n != 0) {
+            ++count;
+            n = n & (n - 1);// 将二进制最右边的一个1置为0
+        }
+        return count;
     }
 
 }
