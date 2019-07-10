@@ -4,7 +4,7 @@ public class ListNode {
 
     public ListNode next;
 
-    public int value;
+    public int val;
 
     @Override
     public String toString() {
@@ -15,7 +15,7 @@ public class ListNode {
         if (listNode == null) {
             return "";
         }
-        return String.valueOf(listNode.value) + "," + getValue(listNode.next);
+        return String.valueOf(listNode.val) + "," + getValue(listNode.next);
     }
 
     public ListNode(int[] value) {
@@ -27,11 +27,11 @@ public class ListNode {
             listNode = new ListNode(listNode, value[i]);
         }
         this.next = listNode;
-        this.value = value[0];
+        this.val = value[0];
     }
 
     public ListNode(ListNode next, int value) {
         this.next = next;
-        this.value = value;
+        this.val = value;
     }
 }
