@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46273349-243f-42d5-8e58-c3a7fd99d67a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/binaryTree/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/sort/SortPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/sort/SortPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/str/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/logic/OddNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/sort/SortPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/sort/SortPractice2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +22,7 @@
       <file leaf-file-name="Practice1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice/binaryTree/Practice1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="450">
               <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,7 +45,7 @@
       <file leaf-file-name="Practice1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice/str/Practice1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="390">
               <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,17 +57,26 @@
       <file leaf-file-name="SortPractice1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice/sort/SortPractice1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="480">
+              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortPractice2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SortPractice2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice/sort/SortPractice2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="126" column="12" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+            <state relative-caret-position="15">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OddNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/practice/logic/OddNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -117,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/practice/str/Practice1.java" />
         <option value="$PROJECT_DIR$/src/practice/sort/SortPractice1.java" />
         <option value="$PROJECT_DIR$/src/practice/sort/SortPractice2.java" />
+        <option value="$PROJECT_DIR$/src/practice/logic/OddNumber.java" />
       </list>
     </option>
   </component>
@@ -130,7 +138,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1441" />
+    <option name="x" value="1440" />
     <option name="y" value="-18" />
     <option name="width" value="1920" />
     <option name="height" value="1005" />
@@ -143,6 +151,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,22 +182,12 @@
               <item name="niuke" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
-              <item name="niuke" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,7 +213,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortPractice2">
+  <component name="RunManager" selected="Application.OddNumber">
+    <configuration name="OddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.logic.OddNumber" />
+      <module name="niuke" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.stack.Practice" />
       <module name="niuke" />
@@ -220,17 +232,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practice.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.array.Practice1" />
-      <module name="niuke" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,19 +311,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Practice1" />
       <item itemvalue="Application.Practice" />
       <item itemvalue="Application.Practice2" />
       <item itemvalue="Application.SortPractice1" />
       <item itemvalue="Application.SortPractice2" />
+      <item itemvalue="Application.OddNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddNumber" />
         <item itemvalue="Application.SortPractice2" />
         <item itemvalue="Application.SortPractice1" />
         <item itemvalue="Application.Practice2" />
         <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.Practice1" />
       </list>
     </recent_temporary>
   </component>
@@ -348,21 +349,22 @@
       <workItem from="1563156892650" duration="496000" />
       <workItem from="1564542710506" duration="2488000" />
       <workItem from="1565061866988" duration="2314000" />
-      <workItem from="1570759137757" duration="14136000" />
+      <workItem from="1570759137757" duration="14577000" />
+      <workItem from="1571880088995" duration="521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97968000" />
+    <option name="totallyTimeSpent" value="98930000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1441" y="-18" width="1920" height="1005" extended-state="0" />
+    <frame x="1440" y="-18" width="1920" height="1005" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32870865" />
-      <window_info anchor="right" id="aiXcoder" />
+      <window_info anchor="right" id="aiXcoder" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -375,7 +377,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.31057268" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.28221512" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857953" visible="true" weight="0.28518122" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50132626" side_tool="true" weight="0.3469242" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -404,13 +406,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/practice/list/ListNodePractice3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/binaryTree/BinaryTreePractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -681,7 +676,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/binaryTree/Practice1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="450">
           <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -707,7 +702,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/str/Practice1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="390">
           <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -717,8 +712,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/sort/SortPractice1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        <state relative-caret-position="480">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -747,16 +742,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/sort/SortPractice2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="126" column="12" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+        <state relative-caret-position="15">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/logic/OddNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
