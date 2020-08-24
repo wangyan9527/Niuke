@@ -17,6 +17,7 @@ public class OddNumber {
         boolean result1 = (num & 1) == 1;
         System.out.println(result);
         System.out.println(result1);
+
     }
 
 }
