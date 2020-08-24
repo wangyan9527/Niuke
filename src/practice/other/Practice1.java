@@ -29,6 +29,7 @@ public class Practice1 {
             totalCount += (a1 / a2);
         }
         return totalCount;
+
     }
 
     /**
